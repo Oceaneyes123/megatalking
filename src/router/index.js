@@ -5,12 +5,12 @@ import VueRouter from "vue-router";
 Vue.use(VueRouter);
 
 const routes = [{
-    path: "/",
+    path: "/index",
     name: "Index",
     component: require('../views/Index.vue').default
   },
   {
-    path: "/main",
+    path: "/",
     name: "Main",
     component: require('../views/Main.vue').default
   },
