@@ -14,6 +14,11 @@ const routes = [{
     name: "Main",
     component: require('../views/Main.vue').default
   },
+  {
+    path: "/enrollment",
+    name: "Enrollment",
+    component: require('../views/Enrollment.vue').default
+  },
 
 
 ];
