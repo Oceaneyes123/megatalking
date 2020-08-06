@@ -448,74 +448,74 @@ export default {
           status: "enabled",
           text: "프리토킹 묻고 답하기",
           curriculum: "프리토킹",
-          material: "묻고 답하기",
+          material: "묻고 답하기"
         },
         {
           status: "enabled",
           text: "프리토킹 \n 의견말하기",
           curriculum: "프리토킹",
-          material: "의견말하기",
+          material: "의견말하기"
         },
         {
           status: "enabled",
           text: "프리토킹\n 사진묘사",
           curriculum: "프리토킹",
-          material: "사진묘사",
+          material: "사진묘사"
         },
         {
           status: "enabled",
           text: "프리토킹\n 영자신문 (준비중)",
           curriculum: "프리토킹",
-          material: "영자신문",
+          material: "영자신문"
         },
         {
           status: "enabled",
           text: "일상&패턴\n 스피킹패턴",
           curriculum: "일상&패턴",
-          material: "스피킹패턴",
+          material: "스피킹패턴"
         },
         {
           status: "disabled",
           text: "일상&패턴\n 문법패턴",
           curriculum: "일상&패턴",
-          material: "문법패턴",
+          material: "문법패턴"
         },
         {
           status: "enabled",
           text: "일상&패턴\n 일상대화",
           curriculum: "일상&패턴",
-          material: "일상대화",
+          material: "일상대화"
         },
         {
           status: "disabled",
           text: "리딩&스피킹\n 퍼펙트리딩",
           curriculum: "리딩&스피킹",
-          material: "퍼펙트리딩",
+          material: "퍼펙트리딩"
         },
         {
           status: "disabled",
           text: "리딩&스피킹\n 영자신문 (준비중)",
           curriculum: "리딩&스피킹",
-          material: "영자신문",
+          material: "영자신문"
         },
         {
           status: "disabled",
           text: "비지니스\n 인터뷰과정",
           curriculum: "비지니스",
-          material: "인터뷰과정",
+          material: "인터뷰과정"
         },
         {
           status: "enabled",
           text: "비지니스\n 비지니스회화",
           curriculum: "비지니스",
-          material: "비지니스회화",
+          material: "비지니스회화"
         },
         {
           status: "enabled",
           text: "여행영어",
           curriculum: "여행영어",
-          material: "여행영어",
-        },
+          material: "여행영어"
+        }
       ],
 
       bookList20: [
@@ -523,74 +523,74 @@ export default {
           status: "enabled",
           text: "프리토킹 묻고 답하기",
           curriculum: "프리토킹",
-          material: "묻고 답하기",
+          material: "묻고 답하기"
         },
         {
           status: "enabled",
           text: "프리토킹 \n 의견말하기",
           curriculum: "프리토킹",
-          material: "의견말하기",
+          material: "의견말하기"
         },
         {
           status: "enabled",
           text: "프리토킹\n 사진묘사",
           curriculum: "프리토킹",
-          material: "사진묘사",
+          material: "사진묘사"
         },
         {
           status: "enabled",
           text: "프리토킹\n 영자신문 (준비중)",
           curriculum: "프리토킹",
-          material: "영자신문",
+          material: "영자신문"
         },
         {
           status: "enabled",
           text: "일상&패턴\n 스피킹패턴",
           curriculum: "일상&패턴",
-          material: "스피킹패턴",
+          material: "스피킹패턴"
         },
         {
           status: "disabled",
           text: "일상&패턴\n 문법패턴",
           curriculum: "일상&패턴",
-          material: "문법패턴",
+          material: "문법패턴"
         },
         {
           status: "enabled",
           text: "일상&패턴\n 일상대화",
           curriculum: "일상&패턴",
-          material: "일상대화",
+          material: "일상대화"
         },
         {
           status: "enabled",
           text: "리딩&스피킹\n 퍼펙트리딩",
           curriculum: "리딩&스피킹",
-          material: "퍼펙트리딩",
+          material: "퍼펙트리딩"
         },
         {
           status: "enabled",
           text: "리딩&스피킹\n 영자신문 (준비중)",
           curriculum: "리딩&스피킹",
-          material: "영자신문",
+          material: "영자신문"
         },
         {
           status: "enabled",
           text: "비지니스\n 인터뷰과정",
           curriculum: "비지니스",
-          material: "인터뷰과정",
+          material: "인터뷰과정"
         },
         {
           status: "enabled",
           text: "비지니스\n 비지니스회화",
           curriculum: "비지니스",
-          material: "비지니스회화",
+          material: "비지니스회화"
         },
         {
           status: "enabled",
           text: "여행영어",
           curriculum: "여행영어",
-          material: "여행영어",
-        },
+          material: "여행영어"
+        }
       ],
 
       bookList30: [
@@ -598,75 +598,75 @@ export default {
           status: "enabled",
           text: "프리토킹 묻고 답하기",
           curriculum: "프리토킹",
-          material: "묻고 답하기",
+          material: "묻고 답하기"
         },
         {
           status: "enabled",
           text: "프리토킹 \n 의견말하기",
           curriculum: "프리토킹",
-          material: "의견말하기",
+          material: "의견말하기"
         },
         {
           status: "enabled",
           text: "프리토킹\n 사진묘사",
           curriculum: "프리토킹",
-          material: "사진묘사",
+          material: "사진묘사"
         },
         {
           status: "enabled",
           text: "프리토킹\n 영자신문 (준비중)",
           curriculum: "프리토킹",
-          material: "영자신문",
+          material: "영자신문"
         },
         {
           status: "enabled",
           text: "일상&패턴\n 스피킹패턴",
           curriculum: "일상&패턴",
-          material: "스피킹패턴",
+          material: "스피킹패턴"
         },
         {
           status: "enabled",
           text: "일상&패턴\n 문법패턴",
           curriculum: "일상&패턴",
-          material: "문법패턴",
+          material: "문법패턴"
         },
         {
           status: "enabled",
           text: "일상&패턴\n 일상대화",
           curriculum: "일상&패턴",
-          material: "일상대화",
+          material: "일상대화"
         },
         {
           status: "enabled",
           text: "리딩&스피킹\n 퍼펙트리딩",
           curriculum: "리딩&스피킹",
-          material: "퍼펙트리딩",
+          material: "퍼펙트리딩"
         },
         {
           status: "enabled",
           text: "리딩&스피킹\n 영자신문 (준비중)",
           curriculum: "리딩&스피킹",
-          material: "영자신문",
+          material: "영자신문"
         },
         {
           status: "enabled",
           text: "비지니스\n 인터뷰과정",
           curriculum: "비지니스",
-          material: "인터뷰과정",
+          material: "인터뷰과정"
         },
         {
           status: "enabled",
           text: "비지니스\n 비지니스회화",
           curriculum: "비지니스",
-          material: "비지니스회화",
+          material: "비지니스회화"
         },
         {
           status: "enabled",
           text: "여행영어",
           curriculum: "여행영어",
-          material: "여행영어",
-        },
-      ],
+          material: "여행영어"
+        }
+      ]
     };
   },
 
@@ -718,7 +718,7 @@ export default {
               : nextTime.getMinutes())
         );
       }
-    },
-  },
+    }
+  }
 };
 </script>
